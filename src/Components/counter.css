@@ -1,0 +1,34 @@
+.counter{
+    
+    display: contents;
+    margin-top: 300px;
+   
+}
+.counterone{
+    margin-top: 280px;
+    /* width: 300px; */
+    /* border: 1px solid palevioletred;
+    display: contents; */
+}
+
+.btn-increment{
+    color: white;
+    font-weight: 800;
+    border: 1px solid white;
+    width: 50px;
+    height: 30px;
+    background-color: orangered;
+    border-radius: 5px;
+    /* padding: 10px; */
+}
+.btn-decrement{
+    color: white;
+    font-weight: 800;
+    border: 1px solid white;
+    width: 50px;
+    height: 30px;
+    background-color: orangered;
+    border-radius: 5px;
+    /* padding: 10px; */
+    text-align: center;
+}
